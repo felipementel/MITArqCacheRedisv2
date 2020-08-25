@@ -45,8 +45,9 @@ Pode-se usar o SQL Database do Azure ou um servidor SQL Server
 > Digite o comando ping e tenha o retorno PONG
 >
 > 127.0.0.1:6379> ping
+>
 > PONG
-> 127.0.0.1:6379>
+>
 >
 > ** Feito isso, volte a configuração do appsettings.json e preencha a conexao com o Redis com o seguinte valor:
 >
@@ -58,5 +59,5 @@ Pode-se usar o SQL Database do Azure ou um servidor SQL Server
 
 > docker rm <container id> | exclui o container
 
-Uso
+Para teste de comando do Redis, veja o tutorial abaixo
 http://try.redis.io/
