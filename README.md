@@ -60,4 +60,6 @@ Pode-se usar o SQL Database do Azure ou um servidor SQL Server
 > docker rm <container id> | exclui o container
 
 Para teste de comando do Redis, veja o tutorial abaixo
+
+
 http://try.redis.io/
